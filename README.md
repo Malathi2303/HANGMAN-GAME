@@ -4,12 +4,21 @@ Hangman is a guessing game for two or more players. One player thinks of a word,
 
 ALGORITHM
 Step 1: Start
+
 Step2: Display the rules of the game.
+
 Step 3: Create an array of encrypted words, and select one randomly as the target word.
+
 Step 4: Create an array of spaces to represent the target word, with each space representing letter.
+
 Step 5: Create an array to keep track of incorrect guesses.
+
 Step 6: Start a loop to take input of the player's guess and update the target word array and incorrect guess array.
+
 Step 7: Display the number of mistakes and a hangman figure based on the number of incorrect guesses.
+
 Step 8: End the loop when the target word is completely filled or the number of incorrect guesses reaches 6.
+
 Step 9: Display the result (win or lose) and the target word.
+
 Step 10: End
